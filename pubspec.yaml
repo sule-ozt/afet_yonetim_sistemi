@@ -1,0 +1,37 @@
+name: afet_yonetim_sistemi
+description: "A new Flutter project."
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core: ^2.27.0
+  firebase_auth: ^4.17.4
+  cloud_firestore: ^4.15.4
+  google_maps_flutter: ^2.5.0
+  location: ^5.0.3
+  http: ^0.13.6
+  image_picker: ^1.0.4
+  firebase_storage: ^11.2.7
+  cupertino_icons: ^1.0.8
+  permission_handler: ^11.0.0
+  firebase_messaging: ^14.7.2
+
+
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/avatar_placeholder.png
