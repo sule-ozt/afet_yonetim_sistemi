@@ -98,15 +98,51 @@ lib/
 
 # 📱 Uygulama Ekranları
 
-> Yakında eklenecek.
+## 🔐 Kullanıcı İşlemleri
 
-- Giriş Ekranı
-- Kayıt Ekranı
-- Yönetici Paneli
-- Gönüllü Paneli
-- Harita
-- Bildirimler
-- Görev Yönetimi
+| Giriş Ekranı | Kayıt Ekranı |
+|---|---|
+| <img src="assets/screenshots/login.png" width="250"> | <img src="assets/screenshots/register.png" width="250"> |
+
+---
+
+## 👨‍💼 Yönetici İşlemleri
+
+| Yönetici Paneli | Afet Bildirimi Oluşturma |
+|---|---|
+| <img src="assets/screenshots/admin_panel.png" width="250"> | <img src="assets/screenshots/create_disaster_notification.png" width="250"> |
+
+---
+
+## 🚨 Afet ve Bildirim Yönetimi
+
+| Acil Durum Bildirimi | Bildirimler |
+|---|---|
+| <img src="assets/screenshots/emergency_notification.png" width="250"> | <img src="assets/screenshots/notifications.png" width="250"> |
+
+---
+
+## 🗺️ Konum ve Görev Takibi
+
+| Gönüllü Takip Haritası | Görev Atama |
+|---|---|
+| <img src="assets/screenshots/volunteer_tracking_map.png" width="250"> | <img src="assets/screenshots/task_assignment_screen.png" width="250"> |
+
+---
+
+## 💬 İletişim ve Kullanıcı Alanları
+
+| Sohbet Ekranı | Profil Ekranı |
+|---|---|
+| <img src="assets/screenshots/chat_screen.png" width="250"> | <img src="assets/screenshots/profile.png" width="250"> |
+
+---
+
+## 📍 Ek Modüller
+
+| Konum İzni | Menü |
+|---|---|
+| <img src="assets/screenshots/location_permission.png" width="250"> | <img src="assets/screenshots/navigation_drawer.png" width="250"> |
 
 ---
 
