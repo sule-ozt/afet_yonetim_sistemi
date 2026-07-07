@@ -151,9 +151,9 @@ flutter run
 
 # 👨‍💻 Geliştirici
 
-**Süleyman Özdemir**
+**Şule Öztürk**
 
-Bilgisayar Mühendisliği Öğrencisi
+Bilgisayar Mühendisliği/Bitirme Projesi
 
 Hitit Üniversitesi
 
